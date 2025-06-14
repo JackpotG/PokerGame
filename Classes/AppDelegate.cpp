@@ -122,7 +122,8 @@ bool AppDelegate::applicationDidFinishLaunching() {
 
 	// 添加资源搜索路径
 	std::vector<std::string> searchPaths;
-	searchPaths.push_back ( "" );          
+	searchPaths.push_back ( "" );
+	searchPaths.push_back ( "Classes" );
 	searchPaths.push_back ( "configs" );    
 	searchPaths.push_back ( "number" );    
 	searchPaths.push_back ( "suits" );     

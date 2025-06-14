@@ -29,7 +29,7 @@
       "CardSuit": 0,
       "Position": {
         "x": 850,
-        "y": 1100
+        "y": 1500
       }
     },
     {
@@ -37,7 +37,7 @@
       "CardSuit": 0,
       "Position": {
         "x": 800,
-        "y": 1100
+        "y": 1300
       }
     },
     {
@@ -45,7 +45,7 @@
       "CardSuit": 3,
       "Position": {
         "x": 750,
-        "y": 900
+        "y": 1100
       }
     }
   ],
@@ -54,24 +54,24 @@
       "CardFace": 2,
       "CardSuit": 0,
       "Position": {
-        "x": 200,
-        "y": 200
+        "x": 350,
+        "y": 300
       }
     },
     {
       "CardFace": 0,
       "CardSuit": 2,
       "Position": {
-        "x": 100,
-        "y": 200
+        "x": 400,
+        "y": 300
       }
     },
     {
       "CardFace": 3,
       "CardSuit": 0,
       "Position": {
-        "x": 90,
-        "y": 200
+        "x": 650,
+        "y": 300
       }
     }
   ]
